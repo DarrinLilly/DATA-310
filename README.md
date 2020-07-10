@@ -1,2 +1,3 @@
-[July 7th](https://github.com/DarrinLilly/DATA-310/releases/tag/v1)
+[July 7th](https://darrinlilly.github.io/DATA-310/July_7th_2020)
+
 
