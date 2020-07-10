@@ -10,7 +10,5 @@ The loss function calculates how far off the predicted value was to the actual v
 
 (10000, 28, 28)
 
-![figure1.png](https://i.loli.net/2020/07/11/8652qQzOWa4ghLD.png)
-
-![figure2.png](https://i.loli.net/2020/07/11/VXPBsW5LplRtY73.png)
+![new figure 1.png](https://i.loli.net/2020/07/11/o2e1rW7mZH8RTid.png)
 
