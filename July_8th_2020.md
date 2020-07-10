@@ -5,7 +5,9 @@ The RELU function is supposed to set outputs less than 0 to 0 so it doesn't skew
 The loss function calculates how far off the predicted value was to the actual value. The optimizer then updates and changes how to minimize the loss and then feeds it back to the loss function and repeats over and over again until it is at the minimum loss.
 
 (60000, 28, 28)
+
 60000
+
 (10000, 28, 28)
 
 ![figure2](C:\Users\DLill\OneDrive\Pictures\figure1.png)
