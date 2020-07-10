@@ -8,3 +8,7 @@ The loss function calculates how far off the predicted value was to the actual v
 60000
 (10000, 28, 28)
 
+![figure2](C:\Users\DLill\OneDrive\Pictures\figure1.png)
+
+![figure2](C:\Users\DLill\OneDrive\Pictures\figure2.png)
+
