@@ -3,3 +3,6 @@
 [July 8th](https://darrinlilly.github.io/DATA-310/July_8th_2020)
 
 [July 9th](https://darrinlilly.github.io/DATA-310/July_9th_2020)
+
+[Project 1](https://darrinlilly.github.io/DATA-310/Project_1)
+
