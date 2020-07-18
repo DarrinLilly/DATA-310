@@ -8,5 +8,5 @@
 
 [July 14th](https://darrinlilly.github.io/DATA-310/July_14th_2020)
 
-[July 15h](https://darrinlilly.github.io/DATA-310/July_15th_2020)
+[July 15th](https://darrinlilly.github.io/DATA-310/July_15th_2020)
 
