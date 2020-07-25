@@ -12,3 +12,4 @@
 
 [Project 2 T-shirt Jumpstart in Data Science entry](https://darrinlilly.github.io/DATA-310/Project_2_Jumpstart_in_Data_Scienc_T-shirt_entry)
 
+[July 20th](https://darrinlilly.github.io/DATA-310/July_20th_2020)
