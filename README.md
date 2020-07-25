@@ -15,3 +15,6 @@
 [July 20th](https://darrinlilly.github.io/DATA-310/July_20th_2020)
 
 [July 21st](https://darrinlilly.github.io/DATA-310/July_21th_2020)
+
+
+[July 22nd](https://darrinlilly.github.io/DATA-310/July_22nd_2020)
