@@ -24,3 +24,5 @@
 [July 28th](https://darrinlilly.github.io/DATA-310/July_28th_2020)
 
 [July 29th](https://darrinlilly.github.io/DATA-310/July_29th_2020)
+
+[Final Project](https://darrinlilly.github.io/DATA-310/Final_Project)
